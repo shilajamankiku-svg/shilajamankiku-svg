@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm mdx-umor 👋</h1>
+<p align="center"><b>AI Tools & Automation Specialist · Web & App Developer</b></p>
 
-<!--
-**shilajamankiku-svg/shilajamankiku-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 I build with **AI tools** to solve real problems faster
+- ⚙️ I create **automations** that save people hours of repetitive work
+- 🌐 I build **websites and web apps**
+- 📱 I build **apps** from idea to launch
+- 🌱 Always learning and shipping new projects
+
+### 🛠️ Skills & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI%20Tools-8A2BE2?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-0A66C2?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📌 What I'm Working On
+
+Check out my pinned projects below 👇
+
+### 🤝 Let's Connect
+
+I'm open to collaborations on AI, automation, and web projects. Feel free to open an issue or reach out!
